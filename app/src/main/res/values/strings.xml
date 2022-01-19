@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="movies">Movie</string>
+    <string name="tv_show">Tv Show</string>
+    <string name="title">Title</string>
+    <string name="date">2019</string>
+    <string name="lorem">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
+    <string name="overview">Overview</string>
+    <string name="error">Please check your connection</string>
+    <string name="add">Add to favorite</string>
+    <string name="remove">Remove from favorite</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="favorite">Favorite</string>
+</resources>
